@@ -43,7 +43,7 @@
 
 <img src="screenshots/addTask.png" width="350px" />
 
-<img src="screenshots/import.png" width="350px" />
+<img src="screenshots/Import.png" width="350px" />
 
 <img src="screenshots/userSetting.png" width="350px" />
 
