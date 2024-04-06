@@ -47,6 +47,9 @@
 
 <img src="screenshots/userSetting.png" width="350px" />
 
+<!-- <img src="screenshots/sspc1.png" width="650px" /> -->
+
+
 ## 💻 Tech Stack
 
 - React
