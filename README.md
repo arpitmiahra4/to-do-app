@@ -29,7 +29,7 @@
 - **🔎 Search Tasks**: Search functionality allows you to filter tasks by name or description, making it easy to find what you need.
 - **🗣️ Task Reading Aloud**: Option to have tasks read aloud using the native `SpeechSynthesis` API, with a selection of voices to choose from. <br/>
   <img src="screenshots/ReadAloud.png" width="250px" />
-- **📥 Import/Export Tasks**: Users can import and export tasks to/from JSON files. This feature allows users to back up their tasks or transfer them to other devices easily. [Example Import File](https://github.com/maciekt07/TodoApp/blob/main/example-import.json)
+- **📥 Import/Export Tasks**: Users can import and export tasks to/from JSON files. This feature allows users to back up their tasks or transfer them to other devices easily. [Example Import File](https://github.com/arpitmiahra4/to-do-app/blob/main/example-import.json)
 - **📴 Works offline**: This app is a Progressive Web App (PWA), which means it can be installed on your device, used even when you're offline and behave like a normal application with shortcuts and badges.<br/>
   <img src="screenshots/pwaBar.png" alt="taskbar" width="250px" />
 
@@ -45,7 +45,7 @@
 
 <img src="screenshots/import.png" width="350px" />
 
-<img src="screenshots/userSetting.png" width="350px" />
+<img src="screenshots/userSettings.png" width="350px" />
 
 <!-- <img src="screenshots/sspc1.png" width="650px" /> -->
 
